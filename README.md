@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I :alien: science
+## Develop code for scientific approaches. I :alien: science
 
 ## 🌱 I’m currently learning machine learning for edge computing and embedded systems
 
