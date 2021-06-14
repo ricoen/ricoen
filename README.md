@@ -5,7 +5,7 @@
 ## 🌱 I’m currently learning machine learning for edge computing and embedded systems
 
 **Louis Pasteur** said:
->Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+>"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
 
 <!--
 **ricoen/ricoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
