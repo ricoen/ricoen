@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## [LinkedIn](https://s.id/roy-profile)
-
 Develop code for scientific approaches<br>
 I :alien: science
 
