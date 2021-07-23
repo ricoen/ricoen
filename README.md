@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Develop code for scientific approaches<br>
+I develop code for scientific approaches<br>
 I :alien: science
 
-🌱 I’m currently learning machine learning for edge computing and embedded systems
+🌱 I’m currently learn machine learning for edge computing and embedded systems
 
 **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
