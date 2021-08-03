@@ -4,6 +4,7 @@
 
 I :alien: science
 
+🎓 Graduate of Computer Engineering Major, Electrical Engineering, Faculty of Engineering, Universitas Brawijaya 🇮🇩<br>
 🌱 I’m currently learn IoT and machine learning for embedded system.
 
 **Louis Pasteur** said:
