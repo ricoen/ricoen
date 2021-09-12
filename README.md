@@ -2,7 +2,7 @@
 
 ## I develop code for scientific approaches<br>
 
-I :alien: science
+I 👽 science
 
 🎓 Graduate of Computer Engineering Major, Electrical Engineering, Faculty of Engineering, Universitas Brawijaya 🇮🇩<br>
 🌱 I’m currently learn IoT and machine learning for embedded system.
