@@ -5,7 +5,8 @@
 I 👽 science
 
 🎓 Graduate of Computer Engineering Major, Electrical Engineering, Faculty of Engineering, Universitas Brawijaya 🇮🇩<br>
-🌱 I’m currently learn IoT and machine learning for embedded system.
+🌱 I’m currently learn and do research in IoT and Machine Learning for embedded system.
+👯 I’m open to collaborate on EduTech for sharing what I've learn.
 
 **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
