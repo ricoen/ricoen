@@ -5,7 +5,7 @@
 I 👽 science
 
 🎓 Graduate of Computer Engineering Major, Electrical Engineering, Faculty of Engineering, Universitas Brawijaya 🇮🇩<br>
-🌱 I’m currently learn and do research in IoT and Machine Learning for embedded system.
+🌱 I’m currently learn and do research in IoT and Machine Learning for embedded system.<br>
 👯 I’m open to collaborate on EduTech for sharing what I've learn.
 
 **Louis Pasteur** said:
