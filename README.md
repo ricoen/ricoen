@@ -7,10 +7,10 @@ I 👽 science
 🎓 Graduate of Computer Engineering Major, Electrical Engineering, Faculty of Engineering, Universitas Brawijaya 🇮🇩<br>
 🌱 I’m currently learn and do research in IoT and Machine Learning for Embedded System.<br>
 
-**Louis Pasteur** said:
+<!-- **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
 
-<!-- <b>Languages:</b><br/>
+<b>Languages:</b><br/>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
 <a href="https://julialang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
