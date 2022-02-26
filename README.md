@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I develop code for scientific approaches<br>
+## I write code for scientific approaches<br>
 
 I 👽 science
 
