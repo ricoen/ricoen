@@ -2,7 +2,7 @@
 
 ## I write code for scientific approaches<br>
 
-I 👽 science
+<!-- I 👽 science -->
 
 🎓 Graduate of Computer Engineering Major, Bachelor of Electrical Engineering.<br>
 <!-- 🌱 I’m currently learn and do research in Machine Learning for Embedded System.<br> -->
