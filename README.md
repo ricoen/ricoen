@@ -5,7 +5,7 @@
 <!-- I 👽 science -->
 
 🎓 Graduate of Computer Engineering Major, Bachelor of Electrical Engineering.<br>
-🌱 Currently learn and do research about Machine Learning for Embedded System.<br>
+🌱 Currently learn and do research about machine learning for embedded system.<br>
 
 <!-- **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
