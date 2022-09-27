@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## I write code for scientific approaches<br>
+## Write code for scientific approaches<br>
 
 <!-- I 👽 science -->
 
 🎓 Graduate of Computer Engineering Major, Bachelor of Electrical Engineering.<br>
-<!-- 🌱 I’m currently learn and do research in Machine Learning for Embedded System.<br> -->
+🌱 Currently learn and do research about Machine Learning for Embedded System.<br>
 
 <!-- **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
