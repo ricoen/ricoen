@@ -4,7 +4,7 @@
 
 <!-- I 👽 science -->
 
-🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering) Major.<br>
+🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering Major).<br>
 🌱 Currently learn and do research about machine learning for embedded system.<br>
 
 <!-- **Louis Pasteur** said:
