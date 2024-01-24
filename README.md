@@ -5,7 +5,7 @@
 <!-- I 👽 science -->
 
 <!-- 🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering Major).<br> -->
-🌱 Currently learn and do research about machine learning for embedded system.<br>
+🌱 Developing machine learning for embedded system.<br>
 📫 rico.enrayan@gmail.com
 
 <!-- **Louis Pasteur** said:
