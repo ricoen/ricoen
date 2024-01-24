@@ -1,11 +1,12 @@
 # Hi there 👋
 
-## Write code for scientific approaches<br>
+<!-- ## Write code for scientific approaches<br> -->
 
 <!-- I 👽 science -->
 
-🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering Major).<br>
+<!-- 🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering Major).<br> -->
 🌱 Currently learn and do research about machine learning for embedded system.<br>
+📫 How to reach me: rico.enrayan@gmail.com
 
 <!-- **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
