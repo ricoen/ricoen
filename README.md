@@ -6,7 +6,7 @@
 
 <!-- 🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering Major).<br> -->
 🌱 Develop machine learning for embedded system.<br>
-📫 rico.enrayan@gmail.com
+<!-- 📫 rico.enrayan@gmail.com -->
 
 <!-- **Louis Pasteur** said:
 >"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."
