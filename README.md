@@ -5,7 +5,7 @@
 <!-- I 👽 science -->
 
 <!-- 🎓 Bachelor of Engineering in Electrical Engineering (Computer Engineering Major).<br> -->
-🌱 Develop machine learning for edge computing.<br>
+🌱 Interest on implementation of machine learning for edge computing.<br>
 <!-- 📫 rico.enrayan@gmail.com -->
 
 <!-- **Louis Pasteur** said:
